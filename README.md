@@ -1,4 +1,4 @@
-# BlenderNeRF
+# BlenderNeRF for AMD FPGA Accelerated
 
 Whether a VFX artist, a research fellow or a graphics amateur, **BlenderNeRF** is the easiest and fastest way to create synthetic NeRF datasets within Blender. Obtain renders and camera parameters with a single click, while having full user control over the 3D scene and camera!
 
